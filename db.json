@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "ss@g.in",
+      "password": "$2a$10$.9fahOF8Vu.h8fpl8vOdZeDT/U308.IkGWntduhc2RMbMfnf/y6bm",
+      "name": "Sejal",
+      "confirmPassword": "123456",
+      "phone": "",
+      "id": 1
+    }
+  ]
+}
